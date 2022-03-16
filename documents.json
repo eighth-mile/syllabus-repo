@@ -1,0 +1,172 @@
+[
+    {
+        "title": "1st Sem - Physics Cycle (B.E)",
+        "courses": [
+            {
+                "title": "Multivariable Calculus",
+                "path": "subjects/multivariable-calculus.md",
+                "code": "21MA11"
+            },
+            {
+                "title": "Engineering Physics",
+                "path": "subjects/engineering-physics.md",
+                "code": "21PH12"
+            },
+            {
+                "title": "Elements of Electrical Engineering",
+                "path": "subjects/elements-of-electrical-engineering.md",
+                "code": "21EE13"
+            },
+            {
+                "title": "Engineering Mechanics",
+                "path": "subjects/engineering-mechanics.md",
+                "code": "21CV14"
+            },
+            {
+                "title": "IDEA Lab",
+                "path": "subjects/idea-lab.md",
+                "code": "21ME15"
+            },
+            {
+                "title": "Computer Aided Engineering Graphics",
+                "path": "subjects/computer-aided-engineering-graphics.md",
+                "code": "21ME16"
+            },
+            {
+                "title": "Technical English - I",
+                "path": "subjects/technical-english-1.md",
+                "code": "21HSE17"
+            },
+            {
+                "title": "Indian Knowledge Systems",
+                "path": "subjects/indian-knowledge-systems.md",
+                "code": "21HSI18"
+            }
+        ]
+    },
+    {
+        "title": "1st Sem - Chemistry Cycle (B.E)",
+        "courses": [
+            {
+                "title": "Multivariable Calculus",
+                "path": "subjects/multivariable-calculus.md",
+                "code": "21MA11"
+            },
+            {
+                "title": "Engineering Chemistry",
+                "path": "subjects/engineering-chemistry.md",
+                "code": "21CH12"
+            },
+            {
+                "title": "Programming in C",
+                "path": "subjects/programming-in-c.md",
+                "code": "21CS13"
+            },
+            {
+                "title": "Elements of Mechanical Engineering",
+                "path": "subjects/elements-of-mechanical-engineering.md",
+                "code": "21ME14"
+            },
+            {
+                "title": "Elements of Electronics Engineering",
+                "path": "subjects/elements-of-electronics-engineering.md",
+                "code": "21EC15"
+            },
+            {
+                "title": "Yoga Practice",
+                "path": "subjects/yoga-practice.md",
+                "code": "21HSE16"
+            },
+            {
+                "title": "Technical English - I",
+                "path": "subjects/technical-english-1.md",
+                "code": "21HSE17"
+            }
+        ]
+    },
+    {
+        "title": "2nd Sem - Physics Cylce (B.E)",
+        "courses": [
+            {
+                "title": "Differential Equations And Numerical Methods",
+                "path": "subjects/differential-equations.md",
+                "code": "21MA21"
+            },
+            {
+                "title": "Engineering Physics",
+                "path": "subjects/engineering-physics.md",
+                "code": "21PH22"
+            },
+            {
+                "title": "Elements of Electrical Engineering",
+                "path": "subjects/elements-of-electrical-engineering.md",
+                "code": "21EE23"
+            },
+            {
+                "title": "Engineering Mechanics",
+                "path": "subjects/engineering-mechanics.md",
+                "code": "21CV24"
+            },
+            {
+                "title": "IDEA Lab",
+                "path": "subjects/idea-lab.md",
+                "code": "21ME25"
+            },
+            {
+                "title": "Computer Aided Engineering Graphics",
+                "path": "subjects/computer-aided-engineering-graphics.md",
+                "code": "21ME26"
+            },
+            {
+                "title": "Technical English - II",
+                "path": "subjects/technical-english-2.md",
+                "code": "21HSE27"
+            },
+            {
+                "title": "Indian Knowledge Systems",
+                "path": "subjects/indian-knowledge-systems.md",
+                "code": "21HSI28"
+            }
+        ]
+    },
+    {
+        "title": "2nd Sem - Chemistry Cycle (B.E)",
+        "courses": [
+            {
+                "title": "Differential Equations And Numerical Methods",
+                "path": "subjects/differential-equations.md",
+                "code": "21MA21"
+            },
+            {
+                "title": "Engineering Chemistry",
+                "path": "subjects/engineering-chemistry.md",
+                "code": "21CH22"
+            },
+            {
+                "title": "Programming in C",
+                "path": "subjects/programming-in-c.md",
+                "code": "21CS23"
+            },
+            {
+                "title": "Elements of Mechanical Engineering",
+                "path": "subjects/elements-of-mechanical-engineering.md",
+                "code": "21ME24"
+            },
+            {
+                "title": "Elements of Electronics Engineering",
+                "path": "subjects/elements-of-electronics-engineering.md",
+                "code": "21EC25"
+            },
+            {
+                "title": "Yoga Practice",
+                "path": "subjects/yoga-practice.md",
+                "code": "21HSE26"
+            },
+            {
+                "title": "Technical English - II",
+                "path": "subjects/technical-english-2.md",
+                "code": "21HSE27"
+            }
+        ]
+    }
+]
