@@ -1,7 +1,7 @@
 [
     {
         "title": "1st Sem - Physics Cycle (B.E)",
-        "courses": [
+        "subjects": [
             {
                 "title": "Multivariable Calculus",
                 "path": "subjects/multivariable-calculus.md",
@@ -46,7 +46,7 @@
     },
     {
         "title": "1st Sem - Chemistry Cycle (B.E)",
-        "courses": [
+        "subjects": [
             {
                 "title": "Multivariable Calculus",
                 "path": "subjects/multivariable-calculus.md",
@@ -86,7 +86,7 @@
     },
     {
         "title": "2nd Sem - Physics Cylce (B.E)",
-        "courses": [
+        "subjects": [
             {
                 "title": "Differential Equations And Numerical Methods",
                 "path": "subjects/differential-equations.md",
@@ -131,7 +131,7 @@
     },
     {
         "title": "2nd Sem - Chemistry Cycle (B.E)",
-        "courses": [
+        "subjects": [
             {
                 "title": "Differential Equations And Numerical Methods",
                 "path": "subjects/differential-equations.md",
